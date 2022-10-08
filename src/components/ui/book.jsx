@@ -1,7 +1,7 @@
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import React from 'react';
 
-const Books = ({ book }) => {
+const Book = ({ book }) => {
     return (
         <div className="book">
             <a href="">
@@ -34,4 +34,4 @@ const Books = ({ book }) => {
     );
 }
 
-export default Books;
+export default Book;
