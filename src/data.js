@@ -12,7 +12,7 @@ export const books = [
     id: 2,
     title: "Atomic Habits",
     url: "https://covers.openlibrary.org/b/id/10958382-L.jpg",
-    originalPrice: 39,
+    originalPrice: 79,
     salePrice: null,
     rating: 5,
   },
