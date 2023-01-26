@@ -8,7 +8,7 @@ const Highlights = () => {
         <div className="container">
             <div className="row">
                 <h2 className="section__title">
-                    Why choose <span className='purple'>Library</span>
+                    Why choose <span className='purple'>Library ?</span>
                 </h2>
                 <div className="highlight__wrapper">
                   <Highlight 
